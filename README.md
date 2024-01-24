@@ -1,1 +1,1 @@
-gulp,gulp dev,gulp build,gulp dev:clean,gulp build:clean,gulp с кучей ненужных настроек для html/css/scss/js.
+<h1><b>GULP сборка.</b></h1>
